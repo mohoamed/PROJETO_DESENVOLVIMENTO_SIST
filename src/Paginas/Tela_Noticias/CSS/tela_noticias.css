@@ -1,0 +1,52 @@
+body {
+    margin: 0%;
+    background: rgb(183, 189, 183);
+}
+.header {
+    padding: 10px;
+    background: rgb(126, 138, 126);
+    
+}
+.header a {
+    margin: 10px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+.header a:hover {
+    color: aliceblue;
+}
+
+nav {
+    margin: 0%;
+}
+.image-bg{
+    background-image:url("../../Imagens/cellphone-coffee-desk-860379.jpg");
+}
+
+div.noticia {
+    background-color: rgba(129, 98, 98, 0.774);
+    width: 500px;
+    height: 200px;
+    margin: 40px;
+}
+p.noticia {
+    margin: 40px;
+    padding: 10px;
+    font-size: 40px;
+    font-display: block;
+    color: rgb(3, 2, 2);
+}
+div.noticia-2 {
+    background-color: rgba(129, 98, 98, 0.774);
+    width: 700px;
+    height: 300px;
+    margin: 40px;
+    position: relative;
+    left: 40%;
+    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: darkslategrey;
+}

@@ -1,6 +1,33 @@
 body {
-    background: #20B2AA;
+    margin: 0%;
+    background: rgb(183, 189, 183);
 }
+.image-center {
+    width:600px;
+    height:600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.centro {
+    text-align: center;
+    display: block;
+    font-size: 40px;
+}
+    .header {
+        padding: 10px;
+        background: rgb(126, 138, 126);  
+    }
+    .header a {
+        margin: 10px;
+    }
+    .header a:hover {
+        color: aliceblue;
+    }
+
+    nav {
+        margin: 0%;
+    }
 P{
     text-align: center;
 }
@@ -8,25 +35,20 @@ h1.centro{
     text-align: center;
     color: black;
     font-family: Bahnschrift;
+    font-size: 50px;
 }
 
-h2,h3{
-    text-align: left;
-    color: black;
-    font-family: Bahnschrift;
-}
+
 P.justificado{
     text-align: justify;
+    text-justify: inter-word;
     color: black;
     font-size: 20px;
     font-family: Bahnschra;
+    margin: 30px;
 }
 
 a{
-    font-size: 20px
-}
-
-a:hover{
-        color: aquamarine;
-        font-size: 30px
+    font-size: 30px;
+    color: rgb(0, 0, 0);
 }
