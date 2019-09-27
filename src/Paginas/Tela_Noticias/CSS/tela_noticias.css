@@ -50,3 +50,8 @@ h1{
     font-size: 100px;
     color: darkslategrey;
 }
+img.image-header {
+    width: 5%;
+    height: 5%;
+    margin-left: -40px;
+}

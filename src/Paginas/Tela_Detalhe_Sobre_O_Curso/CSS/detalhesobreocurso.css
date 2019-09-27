@@ -1,0 +1,94 @@
+body {
+    margin: 0%;
+    background: rgb(183, 189, 183);
+}
+.image-center {
+    width:600px;
+    height:600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.centro {
+    text-align: center;
+    display: block;
+    font-size: 40px;
+}
+h1.centro {
+    text-align: center;
+    display: block;
+    font-size: 80px;
+    color: rgb(250, 112, 0)
+}
+    .header {
+        padding: 10px;
+        background: rgb(126, 138, 126);  
+    }
+    .header a {
+        margin: 20px;
+    }
+    .header a:hover {
+        color: aliceblue;
+    }
+
+    nav {
+        margin: 0%;
+    }
+    a{
+        font-size: 30px;
+        color: rgb(0, 0, 0);
+    }
+    .image-bg{
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-image:url("../../Imagens/DetalheDoCursoBG.jpg");
+    }
+    .div-right {
+        background-color: rgba(38, 0, 255, 0.527);
+        width: 700px;
+        height: 1050px;
+        margin: 40px;
+        position: relative;
+        left: 40%;
+        font-size: 40px;
+        font-display: block;
+        text-align: center;
+        color: white;
+        font-weight: bold;
+    }
+    .div-left {
+        background-color: rgba(38, 0, 255, 0.527);
+        width: 700px;
+        height: 1050px;
+        margin: 40px;
+        position: relative;
+        font-size: 40px;
+        font-display: block;
+        text-align: center;
+        color: white;
+        font-weight: bold;
+    }
+    p.conteudo {
+        font-size: 25px;
+        font-weight: normal;
+        margin: 10px;
+    }
+    img.image-header {
+        width: 5%;
+        height: 5%;
+        margin-left: -40px;
+    }
+    p.curso {
+        font-size: 80px;
+        font-display: block;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+    }
+    div.curso {
+        background-color: rgba(37, 0, 250, 0.527);
+        width: 90%;
+        height: 200px;
+        margin: 80px;
+        position: relative;
+    }
